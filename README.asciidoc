@@ -1,3 +1,5 @@
+# DEPRECATED! consider to use https://github.com/bsorrentino/forge-js-addon[forge-js-addon] instead
+
 ## DynJS addon
 
 ===============================
